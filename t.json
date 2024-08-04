@@ -1,0 +1,13 @@
+[
+  {
+    "label": "Premium Channels",
+    "channels": [
+      {
+        "name": "Premium Channels",
+        "logoUrl": "https://example.com/logos/premium_channels.png",
+        "streamUrl": "https://1rdk.short.gy/Himel-Op-Premium-Playlist.m3u",
+        "isMaster": true
+      }
+    ]
+  }
+]

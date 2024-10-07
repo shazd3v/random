@@ -1,1 +1,60 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "todo_list": [
+        {
+          "task_id": 101,
+          "task": "Buy groceries",
+          "status": "completed"
+        },
+        {
+          "task_id": 102,
+          "task": "Clean the house",
+          "status": "pending"
+        },
+        {
+          "task_id": 103,
+          "task": "Prepare presentation",
+          "status": "in progress"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "todo_list": [
+        {
+          "task_id": 201,
+          "task": "Schedule meeting with clients",
+          "status": "pending"
+        },
+        {
+          "task_id": 202,
+          "task": "Update project documentation",
+          "status": "in progress"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "todo_list": [
+        {
+          "task_id": 301,
+          "task": "Finish book",
+          "status": "completed"
+        },
+        {
+          "task_id": 302,
+          "task": "Organize workspace",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}
